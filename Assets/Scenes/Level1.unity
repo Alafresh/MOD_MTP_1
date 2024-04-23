@@ -31617,6 +31617,12 @@ PrefabInstance:
       propertyPath: LevelBounds.m_Extent.y
       value: 18
       objectReference: {fileID: 0}
+    - target: {fileID: 1090278874593426877, guid: d77f8ba00b51c0540b470bb2efcd6707,
+        type: 3}
+      propertyPath: PlayerPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 3206898904012165939, guid: 919a06ccbc4b1204183507b2ea9e01dc,
+        type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
